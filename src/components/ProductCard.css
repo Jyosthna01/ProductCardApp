@@ -1,0 +1,24 @@
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-card.favorite {
+    border-color: #ff5e5e;
+    background-color: #fff0f0;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
